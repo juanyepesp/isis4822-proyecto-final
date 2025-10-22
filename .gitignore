@@ -1,0 +1,16 @@
+# macOS — ignore Finder & metadata files
+.DS_Store
+**/.DS_Store
+.DS_Store?
+._*
+.AppleDouble
+.LSOverride
+Icon?
+# system directories and caches
+.Spotlight-V100/
+.Trashes/
+.fseventsd/
+.TemporaryItems/
+.DocumentRevisions-V100/
+.VolumeIcon.icns
+.localized
